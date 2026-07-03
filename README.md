@@ -102,6 +102,27 @@ Populate the database with test data:
 ```bash
 php artisan db:seed
 ```
+
+**Seeded Data Includes:**
+- **Test User Account**
+  - Email: `test@example.com`
+  - Password: `password`
+
+- **8 Sample Projects:**
+  - Website Redesign
+  - Mobile App Development
+  - Database Migration
+  - API Integration
+  - Security Audit
+  - Performance Optimization
+  - Testing & QA
+  - Documentation
+
+- **Sample Time Logs** (for the test user)
+- **Sample Leave Application** (for the test user)
+
+---
+
 ## Running the Application
 
 ### Start Development Server
